@@ -1,0 +1,31 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                             http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>TT3365</groupId>
+    <artifactId>solution-parent</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0</version>
+    <name>Introduction to Core Spring 5.x and REST</name>
+
+    <modules>
+        <module>spring-javaconfig/solution-code</module>
+        <module>spring-bean-dependencies/solution-code</module>
+        <module>spring-boot-introduction/solution-code</module>
+        <module>spring-boot-flightservice/solution-code</module>
+        <module>spring-jdbc/solution-code</module>
+        <module>spring-data-jpa-boot/solution-code</module>
+        <module>spring-data-jpa-boot-db/solution-code</module>
+        <module>spring-data-jpa/solution-code</module>
+        <module>spring-data-query-methods/solution-code</module>
+        <module>spring-rest-intro/solution-code</module>
+        <module>spring-rest-client/solution-code</module>
+        <module>spring-hotel-reservation/solution-code</module>
+        <module>spring-hotel-reservation-client/solution-code</module>
+        <module>spring-rest-content-client/solution-code</module>
+        <module>spring-rest-content/solution-code</module>
+        <module>spring-rest-services/solution-code</module>
+    </modules>
+</project>

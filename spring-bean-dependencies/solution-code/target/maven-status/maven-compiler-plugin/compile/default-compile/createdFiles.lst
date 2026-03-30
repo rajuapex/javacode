@@ -1,0 +1,8 @@
+com/triveratravel/config/JavaConfig.class
+com/triveratravel/repository/ReservationRepository.class
+META-INF/spring.components
+com/triveratravel/repository/RemoteReservationRepository.class
+com/triveratravel/model/Reservation.class
+com/triveratravel/service/HotelService.class
+com/triveratravel/repository/JdbcReservationRepository.class
+com/triveratravel/Application.class

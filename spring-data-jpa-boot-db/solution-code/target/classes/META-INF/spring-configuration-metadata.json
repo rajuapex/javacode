@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "travel.datasource",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.triveratravel.JavaConfig",
+      "sourceMethod": "public javax.sql.DataSource dataSource() "
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

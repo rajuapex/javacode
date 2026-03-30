@@ -1,0 +1,4 @@
+com.triveratravel.config.JavaConfig=org.springframework.stereotype.Component
+com.triveratravel.repository.JdbcReservationRepository=org.springframework.stereotype.Component
+com.triveratravel.repository.RemoteReservationRepository=org.springframework.stereotype.Component
+com.triveratravel.service.HotelService=org.springframework.stereotype.Component
