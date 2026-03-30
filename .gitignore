@@ -1,0 +1,11 @@
+# Ignore the target folder in the root AND in every sub-module
+**/target/
+target/
+
+# Ignore compiled classes and metadata
+*.class
+.DS_Store
+.vscode/
+.settings/
+.project
+.classpath
